@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "medicineName": "Paracetamol 650mg (Dolo)",
+    "brand": "Micro Labs",
+    "mrp": 30.00,
+    "availableQuantity": 150,
+    "expiry": "2027-12",
+    "status": "Available",
+    "category": "Analgesic / Antipyretic",
+    "description": "Used for relieving mild to moderate pain and reducing fever."
+  },
+  {
+    "id": "2",
+    "medicineName": "Metformin 500mg (Glycomet)",
+    "brand": "USV Pvt Ltd",
+    "mrp": 22.50,
+    "availableQuantity": 300,
+    "expiry": "2027-08",
+    "status": "Available",
+    "category": "Anti-Diabetic",
+    "description": "Oral diabetes medicine that helps control blood sugar levels."
+  },
+  {
+    "id": "3",
+    "medicineName": "Amoxicillin 500mg (Novamox)",
+    "brand": "Cipla",
+    "mrp": 115.00,
+    "availableQuantity": 45,
+    "expiry": "2027-03",
+    "status": "Limited Stock",
+    "category": "Antibiotic",
+    "description": "Penicillin antibiotic that fights bacterial infections."
+  },
+  {
+    "id": "4",
+    "medicineName": "Atorvastatin 10mg (Lipvas)",
+    "brand": "Cipla",
+    "mrp": 85.00,
+    "availableQuantity": 200,
+    "expiry": "2027-10",
+    "status": "Available",
+    "category": "Cardiac Care",
+    "description": "Used to lower cholesterol and reduce the risk of heart disease."
+  },
+  {
+    "id": "5",
+    "medicineName": "Pantoprazole 40mg (Pan-40)",
+    "brand": "Alkem Laboratories",
+    "mrp": 140.00,
+    "availableQuantity": 0,
+    "expiry": "2027-02",
+    "status": "Out of Stock",
+    "category": "Gastrointestinal",
+    "description": "Reduces the amount of acid produced in the stomach."
+  },
+  {
+    "id": "6",
+    "medicineName": "Azithromycin 500mg (Azee)",
+    "brand": "Cipla",
+    "mrp": 120.00,
+    "availableQuantity": 80,
+    "expiry": "2027-06",
+    "status": "Available",
+    "category": "Antibiotic",
+    "description": "Used to treat various bacterial infections of lungs, throat, and skin."
+  },
+  {
+    "id": "7",
+    "medicineName": "Telmisartan 40mg (Telma)",
+    "brand": "Glenmark Pharmaceuticals",
+    "mrp": 92.00,
+    "availableQuantity": 180,
+    "expiry": "2028-01",
+    "status": "Available",
+    "category": "Cardiac Care",
+    "description": "Used to treat high blood pressure (hypertension)."
+  },
+  {
+    "id": "8",
+    "medicineName": "Montelukast 10mg + Levocetirizine 5mg (Montair LC)",
+    "brand": "Cipla",
+    "mrp": 195.00,
+    "availableQuantity": 15,
+    "expiry": "2027-05",
+    "status": "Limited Stock",
+    "category": "Respiratory Care",
+    "description": "Used for relief of sneezing and runny nose due to allergies."
+  },
+  {
+    "id": "9",
+    "medicineName": "Ibuprofen 400mg (Brufen)",
+    "brand": "Abbott Healthcare",
+    "mrp": 18.00,
+    "availableQuantity": 250,
+    "expiry": "2028-03",
+    "status": "Available",
+    "category": "Analgesic / Antipyretic",
+    "description": "Non-steroidal anti-inflammatory drug (NSAID) to relieve pain."
+  },
+  {
+    "id": "10",
+    "medicineName": "Voglibose 0.3mg (Voglistar)",
+    "brand": "Mankind Pharma",
+    "mrp": 78.00,
+    "availableQuantity": 110,
+    "expiry": "2027-09",
+    "status": "Available",
+    "category": "Anti-Diabetic",
+    "description": "Used for the control of postprandial blood glucose in type 2 diabetes."
+  },
+  {
+    "id": "11",
+    "medicineName": "Multivitamins & Minerals (A to Z NS)",
+    "brand": "Alkem Laboratories",
+    "mrp": 135.00,
+    "availableQuantity": 160,
+    "expiry": "2027-11",
+    "status": "Available",
+    "category": "Supplements & Vitamins",
+    "description": "Daily multivitamin supplement for immunity and overall health."
+  },
+  {
+    "id": "12",
+    "medicineName": "Calcium + Vitamin D3 (Shelcal 500)",
+    "brand": "Torrent Pharmaceuticals",
+    "mrp": 112.00,
+    "availableQuantity": 220,
+    "expiry": "2027-07",
+    "status": "Available",
+    "category": "Supplements & Vitamins",
+    "description": "Helps in maintaining bone, muscle and joint health."
+  },
+  {
+    "id": "13",
+    "medicineName": "Cetirizine 10mg (Alerid)",
+    "brand": "Cipla",
+    "mrp": 21.00,
+    "availableQuantity": 0,
+    "expiry": "2027-04",
+    "status": "Out of Stock",
+    "category": "Respiratory Care",
+    "description": "Antihistamine used to treat cold and allergy symptoms."
+  },
+  {
+    "id": "14",
+    "medicineName": "Domperidone 10mg (Domstal)",
+    "brand": "Torrent Pharmaceuticals",
+    "mrp": 34.00,
+    "availableQuantity": 140,
+    "expiry": "2027-10",
+    "status": "Available",
+    "category": "Gastrointestinal",
+    "description": "Used to treat nausea and vomiting by increasing stomach motility."
+  },
+  {
+    "id": "15",
+    "medicineName": "Omeprazole 20mg (Omez)",
+    "brand": "Dr. Reddy's Laboratories",
+    "mrp": 62.00,
+    "availableQuantity": 190,
+    "expiry": "2027-12",
+    "status": "Available",
+    "category": "Gastrointestinal",
+    "description": "Reduces excess stomach acid, used for heartburn and acid reflux."
+  },
+  {
+    "id": "16",
+    "medicineName": "ORSL Liquid Apple Flavor",
+    "brand": "Johnson & Johnson",
+    "mrp": 42.00,
+    "availableQuantity": 90,
+    "expiry": "2027-06",
+    "status": "Available",
+    "category": "OTC Medicine",
+    "description": "Electrolyte and fluid replenishing drink."
+  },
+  {
+    "id": "17",
+    "medicineName": "Dettol Liquid Antiseptic 250ml",
+    "brand": "Reckitt Benckiser",
+    "mrp": 165.00,
+    "availableQuantity": 60,
+    "expiry": "2028-05",
+    "status": "Available",
+    "category": "OTC Medicine",
+    "description": "Antiseptic liquid for wound cleansing and personal hygiene."
+  },
+  {
+    "id": "18",
+    "medicineName": "Himalaya Baby Powder 200g",
+    "brand": "Himalaya Wellness",
+    "mrp": 180.00,
+    "availableQuantity": 35,
+    "expiry": "2027-08",
+    "status": "Available",
+    "category": "Baby Care",
+    "description": "Gentle baby powder enriched with almond oil and olive oil."
+  },
+  {
+    "id": "19",
+    "medicineName": "Accu-Chek Active Test Strips (50s)",
+    "brand": "Roche Diabetes Care",
+    "mrp": 975.00,
+    "availableQuantity": 12,
+    "expiry": "2027-04",
+    "status": "Limited Stock",
+    "category": "Medical Equipment",
+    "description": "Test strips for Accu-Chek blood glucose monitors."
+  },
+  {
+    "id": "20",
+    "medicineName": "Oral-B Kids Soft Toothbrush",
+    "brand": "Procter & Gamble",
+    "mrp": 49.00,
+    "availableQuantity": 0,
+    "expiry": "2029-12",
+    "status": "Out of Stock",
+    "category": "Personal Care",
+    "description": "Gentle kids toothbrush designed for small mouths and developing teeth."
+  }
+]

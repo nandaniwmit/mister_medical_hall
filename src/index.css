@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .glass-body {
+    background: radial-gradient(circle at 80% 20%, rgba(224, 242, 241, 0.45) 0%, transparent 45%),
+                radial-gradient(circle at 10% 80%, rgba(225, 245, 254, 0.45) 0%, transparent 45%),
+                linear-gradient(to bottom right, #f8fafc, #f1f5f9);
+  }
+
+  .dark .glass-body {
+    background: radial-gradient(circle at 80% 20%, rgba(13, 148, 136, 0.08) 0%, transparent 45%),
+                radial-gradient(circle at 10% 80%, rgba(30, 41, 59, 0.6) 0%, transparent 45%),
+                linear-gradient(to bottom right, #020617, #0f172a);
+  }
+
+  .glass-navbar {
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+  }
+
+  .dark .glass-navbar {
+    background-color: rgba(15, 23, 42, 0.4);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .glass-card {
+    background-color: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+  }
+
+  .dark .glass-card {
+    background-color: rgba(15, 23, 42, 0.35);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .glass-card-hover:hover {
+    background-color: rgba(255, 255, 255, 0.55);
+    border-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.04);
+  }
+
+  .dark .glass-card-hover:hover {
+    background-color: rgba(15, 23, 42, 0.5);
+    border-color: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.2);
+  }
+
+  .glass-container {
+    background-color: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+  }
+
+  .dark .glass-container {
+    background-color: rgba(15, 23, 42, 0.7);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .glass-pill {
+    background-color: rgba(209, 250, 229, 0.5);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  }
+
+  .dark .glass-pill {
+    background-color: rgba(6, 78, 59, 0.2);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+}
+

@@ -1,0 +1,6 @@
+{
+  "name": "Mister Medical Hall",
+  "description": "Premium multi-page web application for Mister Medical Hall, a leading licensed pharmacy in Gewalbigha, Gaya, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
